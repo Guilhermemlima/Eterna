@@ -76,7 +76,7 @@ const TESTIMONIALS = [
   {
     name: "Fernanda Oliveira",
     city: "Florianópolis, SC",
-    text: "A Sul Brasil me ajudou a encontrar o apartamento perfeito em menos de 2 semanas. Atendimento impecável do início ao fim!",
+    text: "A SBS me ajudou a encontrar o apartamento perfeito em menos de 2 semanas. Atendimento impecável do início ao fim!",
     stars: 5,
     avatar: "FO",
   },
@@ -181,9 +181,9 @@ export default function App() {
       >
         <div className="nav-inner">
           <button className="logo" onClick={() => scrollTo("hero")}>
-            <div className="logo-icon">SB</div>
+            <div className="logo-icon">SBS</div>
             <div>
-              <div className="logo-title">Sul Brasil</div>
+              <div className="logo-title">SBS</div>
               <div className="logo-sub">IMOBILIÁRIA</div>
             </div>
           </button>
@@ -228,7 +228,7 @@ export default function App() {
             <span className="hero-accent">dos seus Sonhos</span>
           </h1>
           <p className="hero-sub">
-            A Sul Brasil Imobiliária conecta você ao lar ideal com assessoria
+            A SBS Imobiliária conecta você ao lar ideal com assessoria
             completa, transparência total e a expertise de quem conhece o
             mercado do sul do Brasil há 18 anos.
           </p>
@@ -345,7 +345,7 @@ export default function App() {
           <div className="about-img-side">
             <img
               src="https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=700&q=80"
-              alt="Equipe Sul Brasil Imobiliária"
+              alt="Equipe SBS Imobiliária"
               className="about-img"
               loading="lazy"
             />
@@ -360,7 +360,7 @@ export default function App() {
               A Imobiliária que Conhece o Sul
             </h2>
             <p className="about-p">
-              Fundada em 2006, a Sul Brasil Imobiliária nasceu do desejo de oferecer
+              Fundada em 2006, a SBS Imobiliária nasceu do desejo de oferecer
               um atendimento diferenciado para quem busca imóveis nos estados do
               Rio Grande do Sul, Santa Catarina e Paraná.
             </p>
@@ -551,9 +551,9 @@ export default function App() {
         <div className="container footer-grid">
           <div className="footer-brand">
             <div className="logo footer-logo">
-              <div className="logo-icon">SB</div>
+              <div className="logo-icon">SBS</div>
               <div>
-                <div className="logo-title">Sul Brasil</div>
+                <div className="logo-title">SBS</div>
                 <div className="logo-sub">IMOBILIÁRIA</div>
               </div>
             </div>
@@ -601,7 +601,7 @@ export default function App() {
         </div>
 
         <div className="footer-bottom">
-          <p>© 2026 Sul Brasil Imobiliária. Todos os direitos reservados.</p>
+          <p>© 2026 SBS Imobiliária. Todos os direitos reservados.</p>
           <p>Desenvolvido com ❤ no Sul do Brasil</p>
         </div>
       </footer>

@@ -4,3 +4,4 @@ dist/
 *.local
 app.config.timestamp_*.js
 *.tsbuildinfo
+src/*.js
